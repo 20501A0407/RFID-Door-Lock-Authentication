@@ -46,5 +46,5 @@ Feel free to fork the repository and submit pull requests for enhancements or bu
 This project is licensed under the **MIT License**.
 
 ## Author
-Developed by **[Your Name]** - [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Developed by **[DINESH ALURII]** - [LinkedIn](https://linkedin.com/in/dineshalurii) | [GitHub](https://github.com/20501A0407)
 
